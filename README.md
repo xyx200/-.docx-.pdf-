@@ -7,3 +7,5 @@
 `pip install PyMuPDF`  
 
 在 `统计字数.py` 末尾处 `folder` 更改为自己的文件夹路径即可  
+
+有问题请在议题处反馈
